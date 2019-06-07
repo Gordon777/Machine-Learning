@@ -1,0 +1,14 @@
+[1/10] - ptime: 2699.18, loss_d: 0.698, loss_g: 5.271
+c:/Users/IDEA3C/Dropbox/Machinelearning/question/ML-HW6/HW6_DCGAN/pytorch_CelebA_DCGAN.py:84: UserWarning: volatile was removed and now has no effect. Use `with torch.no_grad():` instead.
+  z_ = Variable(z_.cuda(), volatile=True)
+[2/10] - ptime: 2678.26, loss_d: 0.698, loss_g: 3.447
+[3/10] - ptime: 2676.84, loss_d: 0.826, loss_g: 2.428
+[4/10] - ptime: 2677.45, loss_d: 0.884, loss_g: 2.110
+[5/10] - ptime: 2676.33, loss_d: 0.850, loss_g: 2.085
+[6/10] - ptime: 2677.31, loss_d: 0.788, loss_g: 2.172
+[7/10] - ptime: 2676.29, loss_d: 0.723, loss_g: 2.305
+[8/10] - ptime: 2687.55, loss_d: 0.683, loss_g: 2.418
+[9/10] - ptime: 2679.67, loss_d: 0.569, loss_g: 2.655
+[10/10] - ptime: 2676.66, loss_d: 0.533, loss_g: 2.836
+Avg per epoch ptime: 2680.55, total 10 epochs ptime: 26825.51
+Training finish!... save training results
