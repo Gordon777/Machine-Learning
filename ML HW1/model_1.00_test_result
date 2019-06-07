@@ -1,0 +1,8 @@
+nohup: ignoring input
+Accuracy on the ALL test images: 86 %
+Accuracy of street : 88 %
+Accuracy of forest : 97 %
+Accuracy of   sea : 87 %
+Accuracy of mountain : 76 %
+Accuracy of glacier : 83 %
+Accuracy of buildings : 84 %

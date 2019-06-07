@@ -1,0 +1,58 @@
+Epoch: 1/50
+-----------
+Training loss: 1.1867	accuracy: 0.5091
+
+Epoch: 2/50
+-----------
+Training loss: 0.8778	accuracy: 0.6472
+
+Epoch: 3/50
+-----------
+Training loss: 0.7420	accuracy: 0.7214
+
+Epoch: 4/50
+-----------
+Training loss: 0.6290	accuracy: 0.7675
+
+Epoch: 5/50
+-----------
+Training loss: 0.5430	accuracy: 0.8038
+
+Epoch: 6/50
+-----------
+Training loss: 0.4722	accuracy: 0.8312
+
+Epoch: 7/50
+-----------
+Training loss: 0.4150	accuracy: 0.8520
+
+Epoch: 8/50
+-----------
+Training loss: 0.3758	accuracy: 0.8668
+
+Epoch: 9/50
+-----------
+Training loss: 0.3327	accuracy: 0.8836
+
+Epoch: 10/50
+------------
+Training loss: 0.3080	accuracy: 0.8887
+
+Epoch: 11/50
+------------
+Training loss: 0.2662	accuracy: 0.9072
+
+Epoch: 12/50
+------------
+Training loss: 0.2346	accuracy: 0.9146
+
+Epoch: 13/50
+------------
+Training loss: 0.2015	accuracy: 0.9297
+
+Epoch: 14/50
+------------
+Training loss: 0.1959	accuracy: 0.9309
+
+Epoch: 15/50
+------------
